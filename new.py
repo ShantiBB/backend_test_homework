@@ -1,1 +1,0 @@
-print('Test delete file repo')
